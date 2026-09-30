@@ -30,6 +30,7 @@ CREATE TABLE retail_sales
 );
 
 ---
+```
 
 ## 🧹 Data Cleaning
 
